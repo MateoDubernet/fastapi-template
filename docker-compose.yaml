@@ -1,0 +1,4 @@
+fastapi-template:
+  image: fastapi-template-image 
+  ports:
+    - 8080:8000
